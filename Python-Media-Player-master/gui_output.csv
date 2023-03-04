@@ -1,0 +1,41 @@
+GUI.py:11:1: E266 too many leading '#' for block comment
+GUI.py:12:1: E266 too many leading '#' for block comment
+GUI.py:16:11: E225 missing whitespace around operator
+GUI.py:19:31: W291 trailing whitespace
+GUI.py:31:6: E211 whitespace before '('
+GUI.py:32:1: E402 module level import not at top of file
+GUI.py:33:1: E302 expected 2 blank lines, found 0
+GUI.py:34:1: W191 indentation contains tabs
+GUI.py:34:1: E101 indentation contains mixed spaces and tabs
+GUI.py:34:2: E117 over-indented
+GUI.py:35:1: W191 indentation contains tabs
+GUI.py:35:1: E101 indentation contains mixed spaces and tabs
+GUI.py:35:3: E117 over-indented
+GUI.py:36:1: W191 indentation contains tabs
+GUI.py:36:1: E101 indentation contains mixed spaces and tabs
+GUI.py:36:4: F401 'Tkinter' imported but unused
+GUI.py:36:4: E117 over-indented
+GUI.py:37:1: W191 indentation contains tabs
+GUI.py:37:1: E101 indentation contains mixed spaces and tabs
+GUI.py:37:3: E722 do not use bare 'except'
+GUI.py:38:1: W191 indentation contains tabs
+GUI.py:38:1: E101 indentation contains mixed spaces and tabs
+GUI.py:38:4: F401 'tkinter' imported but unused
+GUI.py:38:4: E117 over-indented
+GUI.py:39:1: W191 indentation contains tabs
+GUI.py:39:1: E101 indentation contains mixed spaces and tabs
+GUI.py:39:3: F401 'pyglet' imported but unused
+GUI.py:40:1: W191 indentation contains tabs
+GUI.py:40:1: E101 indentation contains mixed spaces and tabs
+GUI.py:41:1: W191 indentation contains tabs
+GUI.py:41:1: E101 indentation contains mixed spaces and tabs
+GUI.py:42:1: W191 indentation contains tabs
+GUI.py:42:1: E101 indentation contains mixed spaces and tabs
+GUI.py:42:3: E117 over-indented
+GUI.py:43:1: W191 indentation contains tabs
+GUI.py:43:1: E101 indentation contains mixed spaces and tabs
+GUI.py:44:1: E305 expected 2 blank lines after class or function definition, found 0
+GUI.py:44:12: E225 missing whitespace around operator
+GUI.py:45:1: W191 indentation contains tabs
+GUI.py:45:1: E101 indentation contains mixed spaces and tabs
+GUI.py:45:2: E117 over-indented

@@ -1,0 +1,75 @@
+apBot.py:1:1: E265 block comment should start with '# '
+apBot.py:10:11: E221 multiple spaces before operator
+apBot.py:13:1: E265 block comment should start with '# '
+apBot.py:13:80: E501 line too long (85 > 79 characters)
+apBot.py:14:5: E225 missing whitespace around operator
+apBot.py:14:71: E703 statement ends with a semicolon
+apBot.py:15:5: E225 missing whitespace around operator
+apBot.py:17:1: E265 block comment should start with '# '
+apBot.py:18:1: E302 expected 2 blank lines, found 1
+apBot.py:18:30: E231 missing whitespace after ','
+apBot.py:20:36: W291 trailing whitespace
+apBot.py:23:13: E225 missing whitespace around operator
+apBot.py:29:1: E305 expected 2 blank lines after class or function definition, found 1
+apBot.py:29:7: E225 missing whitespace around operator
+apBot.py:29:32: E231 missing whitespace after ','
+apBot.py:29:38: E261 at least two spaces before inline comment
+apBot.py:29:39: E262 inline comment should start with '# '
+apBot.py:29:80: E501 line too long (95 > 79 characters)
+apBot.py:31:1: E265 block comment should start with '# '
+apBot.py:32:1: E302 expected 2 blank lines, found 1
+apBot.py:36:17: E225 missing whitespace around operator
+apBot.py:37:17: E225 missing whitespace around operator
+apBot.py:38:12: E225 missing whitespace around operator
+apBot.py:44:1: E305 expected 2 blank lines after class or function definition, found 1
+apBot.py:44:8: E225 missing whitespace around operator
+apBot.py:44:28: E261 at least two spaces before inline comment
+apBot.py:44:29: E262 inline comment should start with '# '
+apBot.py:44:80: E501 line too long (104 > 79 characters)
+apBot.py:46:1: E265 block comment should start with '# '
+apBot.py:47:1: E302 expected 2 blank lines, found 1
+apBot.py:51:7: E225 missing whitespace around operator
+apBot.py:52:13: E225 missing whitespace around operator
+apBot.py:52:80: E501 line too long (97 > 79 characters)
+apBot.py:53:28: E225 missing whitespace around operator
+apBot.py:58:1: E265 block comment should start with '# '
+apBot.py:59:1: E302 expected 2 blank lines, found 1
+apBot.py:63:15: E225 missing whitespace around operator
+apBot.py:67:1: W293 blank line contains whitespace
+apBot.py:68:1: E305 expected 2 blank lines after class or function definition, found 1
+apBot.py:70:11: E225 missing whitespace around operator
+apBot.py:70:41: E261 at least two spaces before inline comment
+apBot.py:70:42: E262 inline comment should start with '# '
+apBot.py:70:80: E501 line too long (91 > 79 characters)
+apBot.py:72:1: E265 block comment should start with '# '
+apBot.py:73:1: E302 expected 2 blank lines, found 1
+apBot.py:77:9: E225 missing whitespace around operator
+apBot.py:78:9: E225 missing whitespace around operator
+apBot.py:78:17: E231 missing whitespace after ','
+apBot.py:78:25: E231 missing whitespace after ','
+apBot.py:78:34: E231 missing whitespace after ','
+apBot.py:78:43: E231 missing whitespace after ','
+apBot.py:78:47: E231 missing whitespace after ','
+apBot.py:78:53: E231 missing whitespace after ','
+apBot.py:78:68: E231 missing whitespace after ','
+apBot.py:78:80: E501 line too long (89 > 79 characters)
+apBot.py:78:82: E231 missing whitespace after ','
+apBot.py:81:17: E225 missing whitespace around operator
+apBot.py:85:12: E225 missing whitespace around operator
+apBot.py:85:25: W291 trailing whitespace
+apBot.py:86:5: E265 block comment should start with '# '
+apBot.py:87:12: E225 missing whitespace around operator
+apBot.py:87:16: E262 inline comment should start with '# '
+apBot.py:88:5: E265 block comment should start with '# '
+apBot.py:88:49: W291 trailing whitespace
+apBot.py:90:16: E225 missing whitespace around operator
+apBot.py:90:31: W291 trailing whitespace
+apBot.py:92:41: E261 at least two spaces before inline comment
+apBot.py:92:42: E262 inline comment should start with '# '
+apBot.py:93:42: E261 at least two spaces before inline comment
+apBot.py:93:43: E262 inline comment should start with '# '
+apBot.py:97:19: E225 missing whitespace around operator
+apBot.py:98:13: E265 block comment should start with '# '
+apBot.py:98:80: E501 line too long (110 > 79 characters)
+apBot.py:100:29: E231 missing whitespace after ','
+apBot.py:100:56: E231 missing whitespace after ','

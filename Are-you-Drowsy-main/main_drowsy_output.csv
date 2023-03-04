@@ -1,0 +1,214 @@
+main_drowsy.py:1:1: F401 'pkg_resources.to_filename' imported but unused
+main_drowsy.py:9:1: F401 'sys' imported but unused
+main_drowsy.py:11:1: F401 'urllib.request' imported but unused
+main_drowsy.py:12:1: E265 block comment should start with '# '
+main_drowsy.py:16:5: E225 missing whitespace around operator
+main_drowsy.py:19:1: E266 too many leading '#' for block comment
+main_drowsy.py:22:70: W291 trailing whitespace
+main_drowsy.py:28:2: E225 missing whitespace around operator
+main_drowsy.py:28:26: E231 missing whitespace after ','
+main_drowsy.py:29:11: E225 missing whitespace around operator
+main_drowsy.py:33:20: W291 trailing whitespace
+main_drowsy.py:34:6: E221 multiple spaces before operator
+main_drowsy.py:36:39: E261 at least two spaces before inline comment
+main_drowsy.py:36:40: E262 inline comment should start with '# '
+main_drowsy.py:37:35: E261 at least two spaces before inline comment
+main_drowsy.py:37:36: E262 inline comment should start with '# '
+main_drowsy.py:41:1: E266 too many leading '#' for block comment
+main_drowsy.py:41:80: E501 line too long (83 > 79 characters)
+main_drowsy.py:45:1: E303 too many blank lines (3)
+main_drowsy.py:46:1: W191 indentation contains tabs
+main_drowsy.py:46:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:46:2: E117 over-indented
+main_drowsy.py:47:1: W191 indentation contains tabs
+main_drowsy.py:47:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:48:1: W191 indentation contains tabs
+main_drowsy.py:48:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:49:1: W191 indentation contains tabs
+main_drowsy.py:49:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:50:1: W191 indentation contains tabs
+main_drowsy.py:50:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:51:1: W191 indentation contains tabs
+main_drowsy.py:51:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:51:1: W293 blank line contains whitespace
+main_drowsy.py:52:1: E305 expected 2 blank lines after class or function definition, found 1
+main_drowsy.py:55:79: E261 at least two spaces before inline comment
+main_drowsy.py:55:80: E501 line too long (112 > 79 characters)
+main_drowsy.py:59:4: E225 missing whitespace around operator
+main_drowsy.py:60:5: E225 missing whitespace around operator
+main_drowsy.py:61:5: E225 missing whitespace around operator
+main_drowsy.py:62:13: E225 missing whitespace around operator
+main_drowsy.py:63:13: E225 missing whitespace around operator
+main_drowsy.py:64:6: E225 missing whitespace around operator
+main_drowsy.py:68:1: W191 indentation contains tabs
+main_drowsy.py:68:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:68:2: E117 over-indented
+main_drowsy.py:68:12: E225 missing whitespace around operator
+main_drowsy.py:69:1: W191 indentation contains tabs
+main_drowsy.py:69:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:70:1: W191 indentation contains tabs
+main_drowsy.py:70:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:71:1: W191 indentation contains tabs
+main_drowsy.py:71:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:72:1: W191 indentation contains tabs
+main_drowsy.py:72:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:73:1: W191 indentation contains tabs
+main_drowsy.py:73:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:73:3: E117 over-indented
+main_drowsy.py:74:1: W191 indentation contains tabs
+main_drowsy.py:74:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:74:40: E261 at least two spaces before inline comment
+main_drowsy.py:74:40: E262 inline comment should start with '# '
+main_drowsy.py:75:1: W191 indentation contains tabs
+main_drowsy.py:75:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:76:1: W191 indentation contains tabs
+main_drowsy.py:76:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:77:1: W191 indentation contains tabs
+main_drowsy.py:77:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:78:1: W191 indentation contains tabs
+main_drowsy.py:78:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:79:1: W191 indentation contains tabs
+main_drowsy.py:79:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:80:1: W191 indentation contains tabs
+main_drowsy.py:80:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:81:1: W191 indentation contains tabs
+main_drowsy.py:81:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:82:1: W191 indentation contains tabs
+main_drowsy.py:82:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:83:1: W191 indentation contains tabs
+main_drowsy.py:83:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:85:1: W191 indentation contains tabs
+main_drowsy.py:85:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:85:3: E265 block comment should start with '# '
+main_drowsy.py:87:1: W191 indentation contains tabs
+main_drowsy.py:87:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:88:1: W191 indentation contains tabs
+main_drowsy.py:88:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:88:1: W293 blank line contains whitespace
+main_drowsy.py:89:1: W191 indentation contains tabs
+main_drowsy.py:89:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:89:4: E117 over-indented
+main_drowsy.py:90:1: W191 indentation contains tabs
+main_drowsy.py:90:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:91:1: W191 indentation contains tabs
+main_drowsy.py:91:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:91:4: E265 block comment should start with '# '
+main_drowsy.py:92:1: W191 indentation contains tabs
+main_drowsy.py:92:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:93:1: W191 indentation contains tabs
+main_drowsy.py:93:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:93:1: W293 blank line contains whitespace
+main_drowsy.py:94:1: W191 indentation contains tabs
+main_drowsy.py:94:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:96:1: W191 indentation contains tabs
+main_drowsy.py:96:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:96:5: E117 over-indented (comment)
+main_drowsy.py:96:5: E265 block comment should start with '# '
+main_drowsy.py:98:1: W191 indentation contains tabs
+main_drowsy.py:98:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:98:5: E117 over-indented
+main_drowsy.py:100:1: W191 indentation contains tabs
+main_drowsy.py:100:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:100:5: E265 block comment should start with '# '
+main_drowsy.py:101:1: W191 indentation contains tabs
+main_drowsy.py:101:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:101:1: W293 blank line contains whitespace
+main_drowsy.py:102:1: W191 indentation contains tabs
+main_drowsy.py:102:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:102:5: E265 block comment should start with '# '
+main_drowsy.py:102:80: E501 line too long (122 > 79 characters)
+main_drowsy.py:103:1: W191 indentation contains tabs
+main_drowsy.py:103:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:104:1: W191 indentation contains tabs
+main_drowsy.py:104:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:104:80: E501 line too long (93 > 79 characters)
+main_drowsy.py:105:1: W191 indentation contains tabs
+main_drowsy.py:105:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:105:80: E501 line too long (143 > 79 characters)
+main_drowsy.py:106:1: W191 indentation contains tabs
+main_drowsy.py:106:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:107:1: W191 indentation contains tabs
+main_drowsy.py:107:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:108:1: W191 indentation contains tabs
+main_drowsy.py:108:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:110:1: W191 indentation contains tabs
+main_drowsy.py:110:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:110:9: E225 missing whitespace around operator
+main_drowsy.py:110:80: E501 line too long (161 > 79 characters)
+main_drowsy.py:112:1: W191 indentation contains tabs
+main_drowsy.py:112:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:113:1: W191 indentation contains tabs
+main_drowsy.py:113:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:113:80: E501 line too long (94 > 79 characters)
+main_drowsy.py:115:1: W191 indentation contains tabs
+main_drowsy.py:115:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:115:80: E501 line too long (123 > 79 characters)
+main_drowsy.py:117:1: W191 indentation contains tabs
+main_drowsy.py:117:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:118:1: W191 indentation contains tabs
+main_drowsy.py:118:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:119:1: W191 indentation contains tabs
+main_drowsy.py:119:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:119:69: E231 missing whitespace after ','
+main_drowsy.py:120:1: W191 indentation contains tabs
+main_drowsy.py:120:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:120:7: E128 continuation line under-indented for visual indent
+main_drowsy.py:121:1: W191 indentation contains tabs
+main_drowsy.py:121:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:121:10: E211 whitespace before '('
+main_drowsy.py:122:1: W191 indentation contains tabs
+main_drowsy.py:122:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:123:1: W191 indentation contains tabs
+main_drowsy.py:123:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:124:1: W191 indentation contains tabs
+main_drowsy.py:124:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:124:60: E231 missing whitespace after ','
+main_drowsy.py:124:69: E262 inline comment should start with '# '
+main_drowsy.py:124:80: E501 line too long (99 > 79 characters)
+main_drowsy.py:125:1: W191 indentation contains tabs
+main_drowsy.py:125:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:125:1: W293 blank line contains whitespace
+main_drowsy.py:126:1: W191 indentation contains tabs
+main_drowsy.py:126:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:127:1: W191 indentation contains tabs
+main_drowsy.py:127:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:127:4: E117 over-indented
+main_drowsy.py:128:1: W191 indentation contains tabs
+main_drowsy.py:128:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:128:16: E225 missing whitespace around operator
+main_drowsy.py:129:1: W191 indentation contains tabs
+main_drowsy.py:129:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:129:3: E266 too many leading '#' for block comment
+main_drowsy.py:131:1: W191 indentation contains tabs
+main_drowsy.py:131:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:131:20: E231 missing whitespace after ','
+main_drowsy.py:131:52: E231 missing whitespace after ','
+main_drowsy.py:131:56: E231 missing whitespace after ','
+main_drowsy.py:131:60: E231 missing whitespace after ','
+main_drowsy.py:131:80: E501 line too long (111 > 79 characters)
+main_drowsy.py:131:85: E231 missing whitespace after ','
+main_drowsy.py:131:87: E231 missing whitespace after ','
+main_drowsy.py:131:90: E231 missing whitespace after ','
+main_drowsy.py:131:92: E231 missing whitespace after ','
+main_drowsy.py:131:97: E231 missing whitespace after ','
+main_drowsy.py:131:99: E231 missing whitespace after ','
+main_drowsy.py:133:1: W191 indentation contains tabs
+main_drowsy.py:133:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:133:3: E266 too many leading '#' for block comment
+main_drowsy.py:136:1: W191 indentation contains tabs
+main_drowsy.py:136:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:136:2: E303 too many blank lines (2)
+main_drowsy.py:137:1: W191 indentation contains tabs
+main_drowsy.py:137:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:138:1: W191 indentation contains tabs
+main_drowsy.py:138:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:139:1: W191 indentation contains tabs
+main_drowsy.py:139:1: E101 indentation contains mixed spaces and tabs
+main_drowsy.py:139:3: E117 over-indented
+main_drowsy.py:141:14: W291 trailing whitespace
+main_drowsy.py:143:2: E225 missing whitespace around operator
+main_drowsy.py:144:2: E225 missing whitespace around operator
+main_drowsy.py:146:28: E231 missing whitespace after ','
+main_drowsy.py:152:11: E231 missing whitespace after ','
+main_drowsy.py:152:13: E231 missing whitespace after ','
+main_drowsy.py:154:1: W391 blank line at end of file

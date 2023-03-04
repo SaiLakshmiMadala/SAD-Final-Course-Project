@@ -1,0 +1,126 @@
+whatsapp2.py:9:1: F401 'selenium.webdriver.common.action_chains.ActionChains' imported but unused
+whatsapp2.py:11:1: F401 'selenium.webdriver.support.expected_conditions as EC' imported but unused
+whatsapp2.py:12:1: F401 'selenium.webdriver.common.by.By' imported but unused
+whatsapp2.py:13:1: F401 'selenium.webdriver.support.ui.WebDriverWait as wait' imported but unused
+whatsapp2.py:15:7: E225 missing whitespace around operator
+whatsapp2.py:21:7: E225 missing whitespace around operator
+whatsapp2.py:24:1: E265 block comment should start with '# '
+whatsapp2.py:25:1: E302 expected 2 blank lines, found 0
+whatsapp2.py:26:5: E265 block comment should start with '# '
+whatsapp2.py:27:14: E225 missing whitespace around operator
+whatsapp2.py:29:14: E225 missing whitespace around operator
+whatsapp2.py:29:80: E501 line too long (89 > 79 characters)
+whatsapp2.py:32:5: E265 block comment should start with '# '
+whatsapp2.py:32:80: E501 line too long (136 > 79 characters)
+whatsapp2.py:41:18: E225 missing whitespace around operator
+whatsapp2.py:45:27: E231 missing whitespace after ','
+whatsapp2.py:46:10: E225 missing whitespace around operator
+whatsapp2.py:47:16: E225 missing whitespace around operator
+whatsapp2.py:47:27: E225 missing whitespace around operator
+whatsapp2.py:48:31: W291 trailing whitespace
+whatsapp2.py:56:1: E265 block comment should start with '# '
+whatsapp2.py:57:1: E302 expected 2 blank lines, found 1
+whatsapp2.py:58:9: E225 missing whitespace around operator
+whatsapp2.py:58:80: E501 line too long (88 > 79 characters)
+whatsapp2.py:59:6: E225 missing whitespace around operator
+whatsapp2.py:60:11: E225 missing whitespace around operator
+whatsapp2.py:61:9: E225 missing whitespace around operator
+whatsapp2.py:62:12: E225 missing whitespace around operator
+whatsapp2.py:65:10: E225 missing whitespace around operator
+whatsapp2.py:67:1: E302 expected 2 blank lines, found 1
+whatsapp2.py:68:9: E225 missing whitespace around operator
+whatsapp2.py:68:80: E501 line too long (91 > 79 characters)
+whatsapp2.py:70:1: E266 too many leading '#' for block comment
+whatsapp2.py:71:1: E302 expected 2 blank lines, found 0
+whatsapp2.py:72:13: E225 missing whitespace around operator
+whatsapp2.py:74:1: E265 block comment should start with '# '
+whatsapp2.py:75:1: E302 expected 2 blank lines, found 0
+whatsapp2.py:76:9: E225 missing whitespace around operator
+whatsapp2.py:76:80: E501 line too long (90 > 79 characters)
+whatsapp2.py:78:1: E265 block comment should start with '# '
+whatsapp2.py:79:1: E302 expected 2 blank lines, found 0
+whatsapp2.py:80:13: E225 missing whitespace around operator
+whatsapp2.py:80:80: E501 line too long (89 > 79 characters)
+whatsapp2.py:82:1: E265 block comment should start with '# '
+whatsapp2.py:83:1: E302 expected 2 blank lines, found 0
+whatsapp2.py:85:17: E225 missing whitespace around operator
+whatsapp2.py:88:5: E722 do not use bare 'except'
+whatsapp2.py:91:1: E265 block comment should start with '# '
+whatsapp2.py:91:80: E501 line too long (92 > 79 characters)
+whatsapp2.py:92:1: E302 expected 2 blank lines, found 0
+whatsapp2.py:94:17: E225 missing whitespace around operator
+whatsapp2.py:94:80: E501 line too long (97 > 79 characters)
+whatsapp2.py:96:1: E302 expected 2 blank lines, found 0
+whatsapp2.py:98:16: E225 missing whitespace around operator
+whatsapp2.py:101:1: E302 expected 2 blank lines, found 1
+whatsapp2.py:102:8: E225 missing whitespace around operator
+whatsapp2.py:102:80: E501 line too long (97 > 79 characters)
+whatsapp2.py:104:13: E225 missing whitespace around operator
+whatsapp2.py:108:1: E265 block comment should start with '# '
+whatsapp2.py:108:17: W291 trailing whitespace
+whatsapp2.py:111:13: E225 missing whitespace around operator
+whatsapp2.py:113:5: E722 do not use bare 'except'
+whatsapp2.py:116:1: E265 block comment should start with '# '
+whatsapp2.py:117:1: E302 expected 2 blank lines, found 0
+whatsapp2.py:118:13: E225 missing whitespace around operator
+whatsapp2.py:119:12: E225 missing whitespace around operator
+whatsapp2.py:120:8: E225 missing whitespace around operator
+whatsapp2.py:121:18: E225 missing whitespace around operator
+whatsapp2.py:122:14: E225 missing whitespace around operator
+whatsapp2.py:122:50: E228 missing whitespace around modulo operator
+whatsapp2.py:124:12: E225 missing whitespace around operator
+whatsapp2.py:125:16: E225 missing whitespace around operator
+whatsapp2.py:125:80: E501 line too long (94 > 79 characters)
+whatsapp2.py:127:5: E306 expected 1 blank line before a nested definition, found 0
+whatsapp2.py:128:13: E117 over-indented
+whatsapp2.py:129:40: E228 missing whitespace around modulo operator
+whatsapp2.py:129:43: E231 missing whitespace after ','
+whatsapp2.py:130:5: E306 expected 1 blank line before a nested definition, found 0
+whatsapp2.py:131:12: E225 missing whitespace around operator
+whatsapp2.py:131:80: E501 line too long (115 > 79 characters)
+whatsapp2.py:132:15: E225 missing whitespace around operator
+whatsapp2.py:132:19: W291 trailing whitespace
+whatsapp2.py:133:20: E225 missing whitespace around operator
+whatsapp2.py:135:17: E225 missing whitespace around operator
+whatsapp2.py:138:20: E225 missing whitespace around operator
+whatsapp2.py:138:80: E501 line too long (88 > 79 characters)
+whatsapp2.py:139:15: E225 missing whitespace around operator
+whatsapp2.py:141:31: E225 missing whitespace around operator
+whatsapp2.py:143:23: E225 missing whitespace around operator
+whatsapp2.py:144:18: E225 missing whitespace around operator
+whatsapp2.py:149:17: E225 missing whitespace around operator
+whatsapp2.py:154:5: E306 expected 1 blank line before a nested definition, found 0
+whatsapp2.py:155:12: E225 missing whitespace around operator
+whatsapp2.py:156:17: E225 missing whitespace around operator
+whatsapp2.py:158:21: E225 missing whitespace around operator
+whatsapp2.py:159:19: E225 missing whitespace around operator
+whatsapp2.py:159:70: E228 missing whitespace around modulo operator
+whatsapp2.py:159:80: E501 line too long (81 > 79 characters)
+whatsapp2.py:161:20: E225 missing whitespace around operator
+whatsapp2.py:161:80: E501 line too long (99 > 79 characters)
+whatsapp2.py:162:16: E225 missing whitespace around operator
+whatsapp2.py:163:22: E225 missing whitespace around operator
+whatsapp2.py:167:24: E225 missing whitespace around operator
+whatsapp2.py:168:17: E722 do not use bare 'except'
+whatsapp2.py:174:1: E265 block comment should start with '# '
+whatsapp2.py:175:1: E265 block comment should start with '# '
+whatsapp2.py:176:1: E302 expected 2 blank lines, found 0
+whatsapp2.py:178:15: E225 missing whitespace around operator
+whatsapp2.py:179:21: E225 missing whitespace around operator
+whatsapp2.py:182:19: E225 missing whitespace around operator
+whatsapp2.py:183:22: E225 missing whitespace around operator
+whatsapp2.py:190:1: E265 block comment should start with '# '
+whatsapp2.py:190:80: E501 line too long (87 > 79 characters)
+whatsapp2.py:191:1: E302 expected 2 blank lines, found 0
+whatsapp2.py:192:9: E117 over-indented
+whatsapp2.py:192:80: E501 line too long (141 > 79 characters)
+whatsapp2.py:193:12: E225 missing whitespace around operator
+whatsapp2.py:194:15: E225 missing whitespace around operator
+whatsapp2.py:196:17: E225 missing whitespace around operator
+whatsapp2.py:198:17: E225 missing whitespace around operator
+whatsapp2.py:200:17: E225 missing whitespace around operator
+whatsapp2.py:202:17: E225 missing whitespace around operator
+whatsapp2.py:202:21: W291 trailing whitespace
+whatsapp2.py:209:1: E305 expected 2 blank lines after class or function definition, found 0
+whatsapp2.py:210:1: E265 block comment should start with '# '
+whatsapp2.py:210:80: E501 line too long (85 > 79 characters)

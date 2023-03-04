@@ -1,0 +1,5 @@
+Streamer.py:15:80: E501 line too long (110 > 79 characters)
+Streamer.py:17:80: E501 line too long (115 > 79 characters)
+Streamer.py:30:80: E501 line too long (114 > 79 characters)
+Streamer.py:64:80: E501 line too long (93 > 79 characters)
+Streamer.py:68:80: E501 line too long (91 > 79 characters)

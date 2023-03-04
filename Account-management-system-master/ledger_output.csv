@@ -1,0 +1,310 @@
+ledger.py:1:1: E265 block comment should start with '# '
+ledger.py:5:36: E261 at least two spaces before inline comment
+ledger.py:6:1: F403 'from tkinter import *' used; unable to detect undefined names
+ledger.py:6:22: E261 at least two spaces before inline comment
+ledger.py:6:23: E262 inline comment should start with '# '
+ledger.py:7:17: E261 at least two spaces before inline comment
+ledger.py:7:18: E262 inline comment should start with '# '
+ledger.py:8:16: E261 at least two spaces before inline comment
+ledger.py:9:14: E261 at least two spaces before inline comment
+ledger.py:10:10: F405 'Tk' may be undefined, or defined from star imports: tkinter
+ledger.py:10:14: E261 at least two spaces before inline comment
+ledger.py:10:15: E262 inline comment should start with '# '
+ledger.py:11:27: E261 at least two spaces before inline comment
+ledger.py:11:28: E262 inline comment should start with '# '
+ledger.py:13:1: E302 expected 2 blank lines, found 1
+ledger.py:13:18: E203 whitespace before ':'
+ledger.py:13:20: E261 at least two spaces before inline comment
+ledger.py:17:23: E203 whitespace before ':'
+ledger.py:18:49: E261 at least two spaces before inline comment
+ledger.py:18:49: E262 inline comment should start with '# '
+ledger.py:18:72: W291 trailing whitespace
+ledger.py:19:25: E261 at least two spaces before inline comment
+ledger.py:19:25: E262 inline comment should start with '# '
+ledger.py:20:25: E261 at least two spaces before inline comment
+ledger.py:20:25: E262 inline comment should start with '# '
+ledger.py:23:39: E261 at least two spaces before inline comment
+ledger.py:23:39: E262 inline comment should start with '# '
+ledger.py:26:1: E302 expected 2 blank lines, found 1
+ledger.py:26:20: E261 at least two spaces before inline comment
+ledger.py:27:5: E265 block comment should start with '# '
+ledger.py:28:16: E231 missing whitespace after ','
+ledger.py:28:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:28:21: E261 at least two spaces before inline comment
+ledger.py:28:22: E262 inline comment should start with '# '
+ledger.py:29:36: E261 at least two spaces before inline comment
+ledger.py:29:37: E262 inline comment should start with '# '
+ledger.py:30:29: E203 whitespace before ':'
+ledger.py:30:31: E261 at least two spaces before inline comment
+ledger.py:31:23: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:31:26: E231 missing whitespace after ','
+ledger.py:31:31: E261 at least two spaces before inline comment
+ledger.py:31:32: E262 inline comment should start with '# '
+ledger.py:33:1: E302 expected 2 blank lines, found 1
+ledger.py:35:69: E203 whitespace before ':'
+ledger.py:36:51: E261 at least two spaces before inline comment
+ledger.py:36:51: E262 inline comment should start with '# '
+ledger.py:40:71: E261 at least two spaces before inline comment
+ledger.py:40:71: E262 inline comment should start with '# '
+ledger.py:40:80: E501 line too long (97 > 79 characters)
+ledger.py:41:16: E231 missing whitespace after ','
+ledger.py:41:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:41:21: E261 at least two spaces before inline comment
+ledger.py:41:22: E262 inline comment should start with '# '
+ledger.py:42:15: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:42:18: E231 missing whitespace after ','
+ledger.py:42:39: E231 missing whitespace after ','
+ledger.py:42:80: E501 line too long (202 > 79 characters)
+ledger.py:42:101: E231 missing whitespace after ','
+ledger.py:43:5: E265 block comment should start with '# '
+ledger.py:45:1: E302 expected 2 blank lines, found 1
+ledger.py:47:30: E261 at least two spaces before inline comment
+ledger.py:47:31: E262 inline comment should start with '# '
+ledger.py:48:14: E225 missing whitespace around operator
+ledger.py:48:35: E261 at least two spaces before inline comment
+ledger.py:48:36: E262 inline comment should start with '# '
+ledger.py:49:39: E261 at least two spaces before inline comment
+ledger.py:49:40: E262 inline comment should start with '# '
+ledger.py:50:1: W293 blank line contains whitespace
+ledger.py:51:20: E231 missing whitespace after ','
+ledger.py:51:21: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:51:25: E261 at least two spaces before inline comment
+ledger.py:51:25: E262 inline comment should start with '# '
+ledger.py:52:19: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:52:22: E231 missing whitespace after ','
+ledger.py:53:20: E231 missing whitespace after ','
+ledger.py:53:21: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:53:25: E261 at least two spaces before inline comment
+ledger.py:53:25: E262 inline comment should start with '# '
+ledger.py:54:19: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:54:22: E231 missing whitespace after ','
+ledger.py:55:20: E231 missing whitespace after ','
+ledger.py:55:21: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:55:25: E261 at least two spaces before inline comment
+ledger.py:55:25: E262 inline comment should start with '# '
+ledger.py:56:19: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:56:22: E231 missing whitespace after ','
+ledger.py:57:20: E231 missing whitespace after ','
+ledger.py:57:21: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:57:25: E261 at least two spaces before inline comment
+ledger.py:57:25: E262 inline comment should start with '# '
+ledger.py:58:19: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:58:22: E231 missing whitespace after ','
+ledger.py:59:20: E231 missing whitespace after ','
+ledger.py:59:21: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:59:25: E261 at least two spaces before inline comment
+ledger.py:59:25: E262 inline comment should start with '# '
+ledger.py:59:39: W291 trailing whitespace
+ledger.py:60:19: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:60:22: E231 missing whitespace after ','
+ledger.py:61:20: E231 missing whitespace after ','
+ledger.py:61:21: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:61:25: E261 at least two spaces before inline comment
+ledger.py:61:25: E262 inline comment should start with '# '
+ledger.py:62:19: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:62:22: E231 missing whitespace after ','
+ledger.py:63:1: W293 blank line contains whitespace
+ledger.py:67:1: E302 expected 2 blank lines, found 1
+ledger.py:67:23: E261 at least two spaces before inline comment
+ledger.py:67:23: E262 inline comment should start with '# '
+ledger.py:68:72: E261 at least two spaces before inline comment
+ledger.py:68:72: E262 inline comment should start with '# '
+ledger.py:68:80: E501 line too long (83 > 79 characters)
+ledger.py:69:40: E261 at least two spaces before inline comment
+ledger.py:69:40: E262 inline comment should start with '# '
+ledger.py:70:32: E231 missing whitespace after ','
+ledger.py:70:50: E231 missing whitespace after ','
+ledger.py:70:53: E261 at least two spaces before inline comment
+ledger.py:70:53: E262 inline comment should start with '# '
+ledger.py:71:16: E231 missing whitespace after ','
+ledger.py:71:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:72:15: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:72:18: E231 missing whitespace after ','
+ledger.py:73:5: E265 block comment should start with '# '
+ledger.py:75:1: E302 expected 2 blank lines, found 1
+ledger.py:75:24: E261 at least two spaces before inline comment
+ledger.py:75:24: E262 inline comment should start with '# '
+ledger.py:76:72: E261 at least two spaces before inline comment
+ledger.py:76:72: E262 inline comment should start with '# '
+ledger.py:76:80: E501 line too long (83 > 79 characters)
+ledger.py:78:32: E261 at least two spaces before inline comment
+ledger.py:78:32: E262 inline comment should start with '# '
+ledger.py:79:44: E261 at least two spaces before inline comment
+ledger.py:79:44: E262 inline comment should start with '# '
+ledger.py:80:55: E231 missing whitespace after ','
+ledger.py:80:58: E261 at least two spaces before inline comment
+ledger.py:80:58: E262 inline comment should start with '# '
+ledger.py:81:20: E231 missing whitespace after ','
+ledger.py:81:21: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:82:19: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:82:22: E231 missing whitespace after ','
+ledger.py:83:9: E203 whitespace before ':'
+ledger.py:83:11: E261 at least two spaces before inline comment
+ledger.py:83:11: E262 inline comment should start with '# '
+ledger.py:84:20: E231 missing whitespace after ','
+ledger.py:84:21: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:85:55: E261 at least two spaces before inline comment
+ledger.py:85:55: E262 inline comment should start with '# '
+ledger.py:86:5: E265 block comment should start with '# '
+ledger.py:88:1: E302 expected 2 blank lines, found 1
+ledger.py:88:26: E261 at least two spaces before inline comment
+ledger.py:88:26: E262 inline comment should start with '# '
+ledger.py:89:35: E261 at least two spaces before inline comment
+ledger.py:89:36: E262 inline comment should start with '# '
+ledger.py:90:37: E203 whitespace before ':'
+ledger.py:90:39: E261 at least two spaces before inline comment
+ledger.py:93:35: E261 at least two spaces before inline comment
+ledger.py:93:36: E262 inline comment should start with '# '
+ledger.py:94:38: E203 whitespace before ':'
+ledger.py:94:40: E261 at least two spaces before inline comment
+ledger.py:96:1: W293 blank line contains whitespace
+ledger.py:98:54: E261 at least two spaces before inline comment
+ledger.py:98:54: E262 inline comment should start with '# '
+ledger.py:100:56: E261 at least two spaces before inline comment
+ledger.py:100:56: E262 inline comment should start with '# '
+ledger.py:101:16: E231 missing whitespace after ','
+ledger.py:101:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:102:15: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:102:18: E231 missing whitespace after ','
+ledger.py:104:1: E302 expected 2 blank lines, found 1
+ledger.py:104:22: E261 at least two spaces before inline comment
+ledger.py:104:22: E262 inline comment should start with '# '
+ledger.py:107:5: E265 block comment should start with '# '
+ledger.py:109:1: E302 expected 2 blank lines, found 1
+ledger.py:110:16: E231 missing whitespace after ','
+ledger.py:110:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:110:21: E261 at least two spaces before inline comment
+ledger.py:110:22: E262 inline comment should start with '# '
+ledger.py:111:16: E231 missing whitespace after ','
+ledger.py:111:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:112:16: E231 missing whitespace after ','
+ledger.py:112:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:113:16: E231 missing whitespace after ','
+ledger.py:113:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:114:16: E231 missing whitespace after ','
+ledger.py:114:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:115:16: E231 missing whitespace after ','
+ledger.py:115:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:116:16: E231 missing whitespace after ','
+ledger.py:116:17: F405 'END' may be undefined, or defined from star imports: tkinter
+ledger.py:118:1: E265 block comment should start with '# '
+ledger.py:119:1: E305 expected 2 blank lines after class or function definition, found 1
+ledger.py:119:6: F405 'Label' may be undefined, or defined from star imports: tkinter
+ledger.py:119:18: E231 missing whitespace after ','
+ledger.py:120:14: E231 missing whitespace after ','
+ledger.py:120:23: E231 missing whitespace after ','
+ledger.py:121:6: F405 'Label' may be undefined, or defined from star imports: tkinter
+ledger.py:121:18: E231 missing whitespace after ','
+ledger.py:122:14: E231 missing whitespace after ','
+ledger.py:122:23: E231 missing whitespace after ','
+ledger.py:123:6: F405 'Label' may be undefined, or defined from star imports: tkinter
+ledger.py:123:18: E231 missing whitespace after ','
+ledger.py:124:14: E231 missing whitespace after ','
+ledger.py:124:23: E231 missing whitespace after ','
+ledger.py:125:6: F405 'Label' may be undefined, or defined from star imports: tkinter
+ledger.py:125:18: E231 missing whitespace after ','
+ledger.py:126:14: E231 missing whitespace after ','
+ledger.py:126:23: E231 missing whitespace after ','
+ledger.py:127:6: F405 'Label' may be undefined, or defined from star imports: tkinter
+ledger.py:127:18: E231 missing whitespace after ','
+ledger.py:128:14: E231 missing whitespace after ','
+ledger.py:128:23: E231 missing whitespace after ','
+ledger.py:129:6: F405 'Label' may be undefined, or defined from star imports: tkinter
+ledger.py:129:18: E231 missing whitespace after ','
+ledger.py:130:14: E231 missing whitespace after ','
+ledger.py:130:23: E231 missing whitespace after ','
+ledger.py:132:1: E265 block comment should start with '# '
+ledger.py:133:5: E225 missing whitespace around operator
+ledger.py:133:6: F405 'StringVar' may be undefined, or defined from star imports: tkinter
+ledger.py:134:6: F405 'Entry' may be undefined, or defined from star imports: tkinter
+ledger.py:134:18: E231 missing whitespace after ','
+ledger.py:134:36: E231 missing whitespace after ','
+ledger.py:135:14: E231 missing whitespace after ','
+ledger.py:135:23: E231 missing whitespace after ','
+ledger.py:137:12: E225 missing whitespace around operator
+ledger.py:137:13: F405 'StringVar' may be undefined, or defined from star imports: tkinter
+ledger.py:138:6: F405 'Entry' may be undefined, or defined from star imports: tkinter
+ledger.py:138:18: E231 missing whitespace after ','
+ledger.py:138:43: E231 missing whitespace after ','
+ledger.py:139:14: E231 missing whitespace after ','
+ledger.py:139:23: E231 missing whitespace after ','
+ledger.py:141:9: E225 missing whitespace around operator
+ledger.py:141:10: F405 'StringVar' may be undefined, or defined from star imports: tkinter
+ledger.py:142:6: F405 'Entry' may be undefined, or defined from star imports: tkinter
+ledger.py:142:18: E231 missing whitespace after ','
+ledger.py:142:40: E231 missing whitespace after ','
+ledger.py:143:14: E231 missing whitespace after ','
+ledger.py:143:23: E231 missing whitespace after ','
+ledger.py:145:6: E225 missing whitespace around operator
+ledger.py:145:7: F405 'StringVar' may be undefined, or defined from star imports: tkinter
+ledger.py:146:6: F405 'Entry' may be undefined, or defined from star imports: tkinter
+ledger.py:146:18: E231 missing whitespace after ','
+ledger.py:146:37: E231 missing whitespace after ','
+ledger.py:147:14: E231 missing whitespace after ','
+ledger.py:147:23: E231 missing whitespace after ','
+ledger.py:149:14: E225 missing whitespace around operator
+ledger.py:149:15: F405 'StringVar' may be undefined, or defined from star imports: tkinter
+ledger.py:150:6: F405 'Entry' may be undefined, or defined from star imports: tkinter
+ledger.py:150:18: E231 missing whitespace after ','
+ledger.py:150:45: E231 missing whitespace after ','
+ledger.py:151:14: E231 missing whitespace after ','
+ledger.py:151:23: E231 missing whitespace after ','
+ledger.py:153:15: E225 missing whitespace around operator
+ledger.py:153:16: F405 'StringVar' may be undefined, or defined from star imports: tkinter
+ledger.py:154:6: F405 'Entry' may be undefined, or defined from star imports: tkinter
+ledger.py:157:1: E265 block comment should start with '# '
+ledger.py:158:6: F405 'Button' may be undefined, or defined from star imports: tkinter
+ledger.py:158:19: E231 missing whitespace after ','
+ledger.py:158:31: E231 missing whitespace after ','
+ledger.py:158:40: E231 missing whitespace after ','
+ledger.py:159:14: E231 missing whitespace after ','
+ledger.py:161:6: F405 'Button' may be undefined, or defined from star imports: tkinter
+ledger.py:161:19: E231 missing whitespace after ','
+ledger.py:161:31: E231 missing whitespace after ','
+ledger.py:161:40: E231 missing whitespace after ','
+ledger.py:162:14: E231 missing whitespace after ','
+ledger.py:164:6: F405 'Button' may be undefined, or defined from star imports: tkinter
+ledger.py:164:19: E231 missing whitespace after ','
+ledger.py:164:31: E231 missing whitespace after ','
+ledger.py:164:40: E231 missing whitespace after ','
+ledger.py:165:14: E231 missing whitespace after ','
+ledger.py:167:6: F405 'Button' may be undefined, or defined from star imports: tkinter
+ledger.py:167:19: E231 missing whitespace after ','
+ledger.py:167:29: E231 missing whitespace after ','
+ledger.py:167:38: E231 missing whitespace after ','
+ledger.py:168:14: E231 missing whitespace after ','
+ledger.py:170:6: F405 'Button' may be undefined, or defined from star imports: tkinter
+ledger.py:170:19: E231 missing whitespace after ','
+ledger.py:170:29: E231 missing whitespace after ','
+ledger.py:170:38: E231 missing whitespace after ','
+ledger.py:171:14: E231 missing whitespace after ','
+ledger.py:173:6: F405 'Button' may be undefined, or defined from star imports: tkinter
+ledger.py:173:19: E231 missing whitespace after ','
+ledger.py:173:31: E231 missing whitespace after ','
+ledger.py:174:14: E231 missing whitespace after ','
+ledger.py:176:6: F405 'Button' may be undefined, or defined from star imports: tkinter
+ledger.py:176:19: E231 missing whitespace after ','
+ledger.py:176:30: E231 missing whitespace after ','
+ledger.py:176:39: E231 missing whitespace after ','
+ledger.py:177:14: E231 missing whitespace after ','
+ledger.py:179:6: F405 'Button' may be undefined, or defined from star imports: tkinter
+ledger.py:179:19: E231 missing whitespace after ','
+ledger.py:179:30: E231 missing whitespace after ','
+ledger.py:179:39: E231 missing whitespace after ','
+ledger.py:180:14: E231 missing whitespace after ','
+ledger.py:182:1: E265 block comment should start with '# '
+ledger.py:183:3: E225 missing whitespace around operator
+ledger.py:183:4: F405 'Listbox' may be undefined, or defined from star imports: tkinter
+ledger.py:183:18: E231 missing whitespace after ','
+ledger.py:183:28: E231 missing whitespace after ','
+ledger.py:184:14: E231 missing whitespace after ','
+ledger.py:184:23: E231 missing whitespace after ','
+ledger.py:186:1: E265 block comment should start with '# '
+ledger.py:187:3: E225 missing whitespace around operator
+ledger.py:187:4: F405 'Scrollbar' may be undefined, or defined from star imports: tkinter
+ledger.py:188:14: E231 missing whitespace after ','
+ledger.py:188:23: E231 missing whitespace after ','
+ledger.py:193:28: E231 missing whitespace after ','
+ledger.py:194:18: E261 at least two spaces before inline comment
+ledger.py:194:19: E262 inline comment should start with '# '
+ledger.py:194:28: W292 no newline at end of file

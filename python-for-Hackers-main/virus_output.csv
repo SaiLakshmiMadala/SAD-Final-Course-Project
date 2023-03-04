@@ -1,0 +1,5 @@
+virus.py:1:1: E266 too many leading '#' for block comment
+virus.py:3:11: E401 multiple imports on one line
+virus.py:3:11: E231 missing whitespace after ','
+virus.py:36:9: E303 too many blank lines (2)
+virus.py:42:1: E266 too many leading '#' for block comment
